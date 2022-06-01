@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "crudpage_1 Copy",
+    "slug": "crudpage-1-copy",
     "layouts": [
       {
         "viewMode": false,
@@ -2172,7 +2172,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page1_SelectQuery",
+              "id": "crudpage_1 Copy_SelectQuery",
               "name": "SelectQuery",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -2208,16 +2208,17 @@
           "update_form"
         ],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "crudpage_1 Copy",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "policies": [],
-  "gitSyncId": "62971329cbec7a4c635d4610_62971329cbec7a4c635d4612"
+  "gitSyncId": "62971329cbec7a4c635d4610_6297135ecbec7a4c635d4620"
 }
